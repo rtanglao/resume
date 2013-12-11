@@ -1,22 +1,22 @@
-Dethe Elza
-dethe@livingcode.org
-778-829-6059
-771 Sawyer's Lane
-Vancouver, BC  V5Z 3Z8
+**Dethe Elza**  
+dethe@livingcode.org  
+778-829-6059  
+771 Sawyer's Lane  
+Vancouver, BC  V5Z 3Z8  
 
-[GitHub](https://github.com/dethe/)
-[Blog](http://livingcode.org/)
-[Twitter](https://twitter.com/dethe)
-[Waterbear](http://waterbearlang.com/)
+[GitHub](https://github.com/dethe/)  
+[Blog](http://livingcode.org/)  
+[Twitter](https://twitter.com/dethe)  
+[Waterbear](http://waterbearlang.com/)  
 
-Experience
-==========
+**Experience**
 
-__Mozilla Foundation__
-Vancouver, BC
-August 2012 - December 2013
-Developer
-Take Collusion prototype through design, development and launch as 1.0
+*Mozilla Foundation*  
+Vancouver, BC  
+August 2012 - December 2013  
+Developer  
+
+Take Collusion prototype through design, development and launch as Lightbeam 1.0
 
 * Hired and lead design and development team
 * Collaborated with Emily Carr University and mentored students helping with redesign
@@ -25,38 +25,41 @@ Take Collusion prototype through design, development and launch as 1.0
 * Mentored students working on Waterbear as part of Undergraduate Capstone Open Source Projects
 * Mentored for Ladies Learning Code and Software Carpentry workshops
 
-__Reelhouse__
-Vancouver, BC
-August 2011 - July 2012
-Director of Development
+*Reelhouse*  
+Vancouver, BC  
+August 2011 - July 2012  
+Director of Development  
+
 Architect, build, and manage development of a site to showcase the work of independent video artists at Reelhouse.org.
 
 * Developed code organization tool Obloq (http://github.com/dethe/obloq)
 * Developed site from scratch using Node.js and MongoDB
 * Hired and trained development team
 
-__Kinzin International, Inc.__
-Vancouver, BC
-September 2006 - August 2011
+*Kinzin International, Inc.*  
+Vancouver, BC  
+September 2006 - August 2011  
 Director of Development
+
 Manage small development team to build photo sharing site Kinzin.com
 
 * Created web-based product builder generating PNG and PDF output
 * Built Facebook apps Are You Normal? and These Are My Kids
 * Created several jQuery modules to support Kinzin interface
 
-__JustSystems Canada__
-Vancouver, BC
-April 2006 - September 2006
+*JustSystems Canada*  
+Vancouver, BC  
+April 2006 - September 2006  
 Senior Technical Architect
+
 Integrated  XML-based collaboration technology (Distributed DOM) into existing xfy XML toolset.
 
-__BlastRadius__
-Vancouver, BC
-April 2002 - March 2006
+*BlastRadius*  
+Vancouver, BC  
+April 2002 - March 2006  
 Senior Technical Architect
 
-__Enfolding Systems__
+*Enfolding Systems*
 Vancouver, BC
 March 2001 - March 2002
 Chief Mad Scientist
@@ -70,69 +73,68 @@ Design of XML content management appliance
 * Create new project management tool for Distributed Agile Software Development
 * Extend existing tools with new support for XML, such as adding XPath support to Zope
  
-__University of British Columbia Continuing Studies__
-Vancouver, BC
-July 2000 - September 2002
-Instructor
+*University of British Columbia Continuing Studies*  
+Vancouver, BC  
+July 2000 - September 2002  
+Instructor  
 
 * Teach XML Concepts introductory class
 * Teach Programming XML class
  
-__Antarcti.ca__
-Vancouver, BC
-June 2000 - March 2001
-Client Lead
+*Antarcti.ca*  
+Vancouver, BC  
+June 2000 - March 2001  
+Client Lead  
 
 * Develop through-the-web 3D rending technology
 * Lead client-side programming team.
 * Research and review 3-D libraries and techniques applicable to web pages XML-driven 3D for the web
  
-__Communicate.com__
-Vancouver, BC
-June 1999 - June 2000
-Senior Software Developer
+*Communicate.com*  
+Vancouver, BC  
+June 1999 - June 2000  
+Senior Software Developer  
 
 * Design and implement server-side Java web applications
 * Develop e-commerce framework
 * Supervise and mentor junior developers
  
-__Lucent Technologies__
-Columbus, Ohio
-April 1998 - May 1999
-Member of Technical Staff
+*Lucent Technologies*  
+Columbus, Ohio  
+April 1998 - May 1999  
+Member of Technical Staff  
 
 * Develop software for managing telephone switches (NetMinder)
 * Document and test Netminder software
 * Review code of other developers
- 
-__Communication Network Services, Ohio University__
-Athens, Ohio
-August 1996 - March 1998
-Network Software Specialist
+
+*Communication Network Services, Ohio University*  
+Athens, Ohio  
+August 1996 - March 1998  
+Network Software Specialist  
 
 * Provide university-wide network support for Macintosh platform
 * Develop software for dial-up, residential, administrative and faculty networks
 * Train student workers
  
-__Communication Network Services, Ohio University__
-Athens, Ohio
-September 1995 - August 1996
-Graduate Assistant
+*Communication Network Services, Ohio University*  
+Athens, Ohio  
+September 1995 - August 1996  
+Graduate Assistant  
 
 * Create Macintosh installation software
 * Provide telephone support
 * Document internet dial-up connection service
 
-__Continuing Education Studies, Ohio University__
-Athens, Ohio
-June 1996 - July 1996
-Instructor
+*Continuing Education Studies, Ohio University*  
+Athens, Ohio  
+June 1996 - July 1996  
+Instructor  
 
 * Teach introductory HTML course
  
 
-PRESENTATIONS
-==================
+**PRESENTATIONS**
 
 * What to Expect After Graduation, SFU First-Year CS Students, 2013
 * Lightbeam AMA, Reddit, 2013
@@ -160,8 +162,7 @@ PRESENTATIONS
 * Creating OS X Cocoa Applications Using XML and Python, Vancouver XML Users' Group 2004
 * PyGame: Implementing the big ideas from little developers, Vancouver Python Workshop 2004
 
-PUBLICATIONS
-============
+**PUBLICATIONS**
 
 * XML Matters: Lighter than Microformats: Picoformats (IBM developerWorks, 2006-08)
 * XML Matters: Up and Atom (IBM developerWorks, proposal accepted, 2006-05)
@@ -172,8 +173,7 @@ PUBLICATIONS
 * Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
 * Browser Evolution: Document Access on the World Wide Web (Master's Thesis 1998-03)
 
-PROJECTS
-========
+**PROJECTS**
 
 * Hexaflexagon builder: 2013
 * Baffle: Word game for mobile browsers: 2013
@@ -192,28 +192,25 @@ PROJECTS
 * FreeWord: An experimental web-editable outliner, 1997
 * Live from Studio B: The Art of Conversation, participated as monthly guest explaining technical issues to ordinary people, 1997
 
-OTHER ACHIEVEMENTS
-==================
+**OTHER ACHIEVEMENTS**
 
 * Raised over $1000 for Children's Hospital "Balding for Dollars" 2009
 * Conceived of and implemented Distributed DOM (DDOM), 2 patents granted, one still pending on this technology, 2001-2004
 * J. Langdon Taylor Scholarship, 1994
 * Computer Science Club Scholarship, 1994
 
-Education
-=========
+**Education**
 
-Ohio University
-Athens, OH
-M.S., Electrical and Computer Engineering
-March 1998
+Ohio University  
+Athens, OH  
+M.S., Electrical and Computer Engineering  
+March 1998  
 
-Ohio University
-Athens, OH
-B.S., Computer Science (Minor in Linguistics)
-November 1995
+Ohio University  
+Athens, OH  
+B.S., Computer Science (Minor in Linguistics)  
+November 1995  
 
-REFERENCES
-==========
+**REFERENCES**
 
 * Available upon request
