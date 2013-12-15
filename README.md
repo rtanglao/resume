@@ -1,20 +1,20 @@
-**Dethe Elza**  
-dethe@livingcode.org  
-778-829-6059  
-771 Sawyer's Lane  
-Vancouver, BC  V5Z 3Z8  
+**Dethe Elza**
+dethe@livingcode.org
+778-829-6059
+771 Sawyer's Lane
+Vancouver, BC  V5Z 3Z8
 
-[GitHub](https://github.com/dethe/)  
-[Blog](http://livingcode.org/)  
-[Twitter](https://twitter.com/dethe)  
-[Waterbear](http://waterbearlang.com/)  
+[GitHub](https://github.com/dethe/)
+[Blog](http://livingcode.org/)
+[Twitter](https://twitter.com/dethe)
+[Waterbear](http://waterbearlang.com/)
 
 **Experience**
 
-*Mozilla Foundation*  
-Vancouver, BC  
-August 2012 - December 2013  
-Developer  
+*Mozilla Foundation*
+Vancouver, BC
+August 2012 - December 2013
+Developer
 
 Take Collusion prototype through design, development and launch as Lightbeam 1.0
 
@@ -25,10 +25,10 @@ Take Collusion prototype through design, development and launch as Lightbeam 1.0
 * Mentored students working on Waterbear as part of Undergraduate Capstone Open Source Projects
 * Mentored for Ladies Learning Code and Software Carpentry workshops
 
-*Reelhouse*  
-Vancouver, BC  
-August 2011 - July 2012  
-Director of Development  
+*Reelhouse*
+Vancouver, BC
+August 2011 - July 2012
+Director of Development
 
 Architect, build, and manage development of a site to showcase the work of independent video artists at Reelhouse.org.
 
@@ -36,9 +36,9 @@ Architect, build, and manage development of a site to showcase the work of indep
 * Developed site from scratch using Node.js and MongoDB
 * Hired and trained development team
 
-*Kinzin International, Inc.*  
-Vancouver, BC  
-September 2006 - August 2011  
+*Kinzin International, Inc.*
+Vancouver, BC
+September 2006 - August 2011
 Director of Development
 
 Manage small development team to build photo sharing site Kinzin.com
@@ -47,89 +47,89 @@ Manage small development team to build photo sharing site Kinzin.com
 * Built Facebook apps Are You Normal? and These Are My Kids
 * Created several jQuery modules to support Kinzin interface
 
-*JustSystems Canada*  
-Vancouver, BC  
-April 2006 - September 2006  
+*JustSystems Canada*
+Vancouver, BC
+April 2006 - September 2006
 Senior Technical Architect
 
 Integrated  XML-based collaboration technology (Distributed DOM) into existing xfy XML toolset.
 
-*BlastRadius*  
-Vancouver, BC  
-April 2002 - March 2006  
+*BlastRadius*
+Vancouver, BC
+April 2002 - March 2006
 Senior Technical Architect
 
 *Enfolding Systems*
 Vancouver, BC
 March 2001 - March 2002
 Chief Mad Scientist
-Founding member of company sold for $2.35 million
-Design and implement client-side GUI development library (Vorta)
-Design and implement client-server shared Document Object Model (DDOM)
-Design of XML content management appliance
 
+* Founding member of company sold for $2.35 million
+* Design and implement client-side GUI development library (Vorta)
+* Design and implement client-server shared Document Object Model (DDOM)
+* Design of XML content management appliance
 * Research usability, workflow, through-the-web editing, and aspect-oriented programming issues
 * Explore new tools, programming patterns, and integration strategies
 * Create new project management tool for Distributed Agile Software Development
 * Extend existing tools with new support for XML, such as adding XPath support to Zope
  
-*University of British Columbia Continuing Studies*  
-Vancouver, BC  
-July 2000 - September 2002  
-Instructor  
+*University of British Columbia Continuing Studies*
+Vancouver, BC
+July 2000 - September 2002
+Instructor
 
 * Teach XML Concepts introductory class
 * Teach Programming XML class
  
-*Antarcti.ca*  
-Vancouver, BC  
-June 2000 - March 2001  
-Client Lead  
+*Antarcti.ca*
+Vancouver, BC
+June 2000 - March 2001
+Client Lead
 
 * Develop through-the-web 3D rending technology
 * Lead client-side programming team.
 * Research and review 3-D libraries and techniques applicable to web pages XML-driven 3D for the web
  
-*Communicate.com*  
-Vancouver, BC  
-June 1999 - June 2000  
-Senior Software Developer  
+*Communicate.com*
+Vancouver, BC
+June 1999 - June 2000
+Senior Software Developer
 
 * Design and implement server-side Java web applications
 * Develop e-commerce framework
 * Supervise and mentor junior developers
  
-*Lucent Technologies*  
-Columbus, Ohio  
-April 1998 - May 1999  
-Member of Technical Staff  
+*Lucent Technologies*
+Columbus, Ohio
+April 1998 - May 1999
+Member of Technical Staff
 
 * Develop software for managing telephone switches (NetMinder)
 * Document and test Netminder software
 * Review code of other developers
 
-*Communication Network Services, Ohio University*  
-Athens, Ohio  
-August 1996 - March 1998  
-Network Software Specialist  
+*Communication Network Services, Ohio University*
+Athens, Ohio
+August 1996 - March 1998
+Network Software Specialist
 
 * Provide university-wide network support for Macintosh platform
 * Develop software for dial-up, residential, administrative and faculty networks
 * Train student workers
  
-*Communication Network Services, Ohio University*  
-Athens, Ohio  
-September 1995 - August 1996  
-Graduate Assistant  
+*Communication Network Services, Ohio University*
+Athens, Ohio
+September 1995 - August 1996
+Graduate Assistant
 
 * Create Macintosh installation software
 * Provide telephone support
 * Document internet dial-up connection service
 
-*Continuing Education Studies, Ohio University*  
-Athens, Ohio  
-June 1996 - July 1996  
-Instructor  
+*Continuing Education Studies, Ohio University*
+Athens, Ohio
+June 1996 - July 1996
+Instructor
 
 * Teach introductory HTML course
  
@@ -201,15 +201,15 @@ Instructor
 
 **Education**
 
-Ohio University  
-Athens, OH  
-M.S., Electrical and Computer Engineering  
-March 1998  
+Ohio University
+Athens, OH
+M.S., Electrical and Computer Engineering
+March 1998
 
-Ohio University  
-Athens, OH  
-B.S., Computer Science (Minor in Linguistics)  
-November 1995  
+Ohio University
+Athens, OH
+B.S., Computer Science (Minor in Linguistics)
+November 1995
 
 **REFERENCES**
 
