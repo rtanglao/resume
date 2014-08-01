@@ -11,6 +11,13 @@ Vancouver, BC  V5Z 3Z8
 
 **Experience**
 
+*Mozilla Corporation*
+Vancouver, BC
+February 2014 - Present
+Senior Web Developer
+
+Front-end development for the Marketplace team
+
 *Mozilla Foundation*
 Vancouver, BC
 August 2012 - December 2013
