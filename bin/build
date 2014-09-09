@@ -1,0 +1,5 @@
+# reqires redcarpet gem
+
+redcarpet README.md > out.html
+cat template/head.html out.html template/foot.html > index.html
+rm out.html
