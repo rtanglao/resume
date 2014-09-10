@@ -11,7 +11,7 @@
 
 ## Summary
 
-I have been programming for the web as long as there has been a web, using AJAX-style dynamic loading since 1998, and pushing boundaries of the browsers and my own creativity at every opportunity. I've worked for large corporations and two-person startups. After resisting becoming a manager for years, I surprised myself by being good at it and enjoying it. Programming is like an infinite box of Legos you can build anything with, and I thrive on introducing others to this world and mentoring other developers.
+I have been programming for the web as long as there has been a web, using AJAX-style dynamic loading since 1998, and pushing boundaries of the browsers and my own creativity at every opportunity. I've worked for large corporations and two-person startups. After resisting becoming a manager for years, I surprised myself by being good at it and enjoying it. Programming is like an infinite box of Legos you can build anything with, and I thrive on introducing others to this world and mentoring other developers. I also enjoy building communities and making connections with different groups who can support each other to build great things.
 
 I am currently seeking a new challenge, if you have an interesting set of problems, let's talk.
 
@@ -27,6 +27,7 @@ Front-end development for the Marketplace team
 
 1. Developed for desktop, Android, and FirefoxOS flavours of Marketplace
 2. Built Hub add-on for Firefox Android to add Marketplace to home screen
+3. Collaborated on the first Vancouver Mozilla Hive Network Pop-Up
 
 ### Mozilla Foundation
 
@@ -194,6 +195,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ## PUBLICATIONS
 
+1. Blockcode (chapter): Architecture of Open Source, Vol. 3 (O'Reilly, forthcoming)
 1. XML Matters: Lighter than Microformats: Picoformats (IBM developerWorks, 2006-08)
 1. XML Matters: Up and Atom (IBM developerWorks, proposal accepted, 2006-05)
 1. XML Matters: Pipestreaming Microformats (IBM developerWorks, 2006-04)
