@@ -48,6 +48,10 @@ article{
 	margin: 2em auto;
 }
 
+article > p{
+	margin-bottom: .5em;
+}
+
 small{
 	font-size: .7em;
 }
