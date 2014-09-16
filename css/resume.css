@@ -1,12 +1,12 @@
 body {
-	font-family: Garamond, serif;
+	font-family: Baskerville, Garamond, Palatino, "Palatino Linotype", "Hoefler Text", "Times New Roman", serif;
 	font-size: 16px;
 	line-height: 20px;
 	background-image: url('../image/pw_maze_white_2x.png');
 }
 
 h1{
-	font-family: 'Special Elite', Garamond, serif;
+	font-family: 'Special Elite', Baskerville, Garamond, Palatino, "Palatino Linotype", "Hoefler Text", "Times New Roman", serif;
 }
 
 h1, h2, h3{
