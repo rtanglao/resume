@@ -2,7 +2,7 @@
 
 * dethe@livingcode.org
 * 778-829-6059
-* 1029-B West 29h Avenue
+* 1029-B West 29th Avenue
 * Vancouver, BC  V6H 2E4
 * [GitHub](https://github.com/dethe/)
 * [Blog](http://livingcode.org/)
