@@ -1,9 +1,7 @@
 # Dethe Elza
 
 * dethe@livingcode.org
-* 778-829-6059
-* 1029-B West 29th Avenue
-* Vancouver, BC  V6H 2E4
+* Vancouver, BC, Canada
 * [GitHub](https://github.com/dethe/)
 * [Blog](http://livingcode.org/)
 * [Twitter](https://twitter.com/dethe)
@@ -17,10 +15,23 @@ I am currently seeking a new challenge, if you have an interesting set of proble
 
 ## Experience
 
+### Awesense Wireless
+
+* Vancouver, BC
+* October 2014 - June 2015
+* Senior Software Engineer
+
+Back-end developer and team leader.
+
+1. Built simulators for a variety of data sources
+2. Recruiting, outreach, and training
+3. Client data integration work
+
+
 ### Mozilla Corporation
 
 * Vancouver, BC
-* February 2014 - Present
+* February 2014 - September 2014
 * Senior Web Developer
 
 Front-end development for the [Marketplace](https://marketplace.firefox.com/) team
@@ -96,7 +107,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 6. Explore new tools, programming patterns, and integration strategies
 7. Create new project management tool for Distributed Agile Software Development
 8. Extend existing tools with new support for XML, such as adding XPath support to Zope
- 
+
 ### University of British Columbia Continuing Studies
 
 * Vancouver, BC
@@ -105,7 +116,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 1. Teach XML Concepts introductory class
 2. Teach Programming XML class
- 
+
 ### Antarcti.ca
 
 * Vancouver, BC
@@ -115,7 +126,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 1. Develop through-the-web 3D rendering technology
 2. Lead client-side programming team.
 3. Research and review 3-D libraries and techniques applicable to web pages XML-driven 3D for the web
- 
+
 ### Communicate.com
 
 * Vancouver, BC
@@ -125,7 +136,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 1. Design and implement server-side Java web applications
 2. Develop e-commerce framework
 3. Supervise and mentor junior developers
- 
+
 ### Lucent Technologies
 
 * Columbus, Ohio
@@ -145,7 +156,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 1. Provide university-wide network support for Macintosh platform
 2. Develop software for dial-up, residential, administrative and faculty networks
 3. Train student workers
- 
+
 ### Communication Network Services, Ohio University
 
 * Athens, Ohio
@@ -173,10 +184,11 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 4. [Method and system for enabling collaborative authoring of hierarchical documents with versioning](https://www.google.com/patents/US20040230894) (Pending)
 5. [Method and system for enabling collaborative authoring of hierarchical documents with node privileges](https://www.google.com/patents/US20040230893) (Pending)
 6. [Method and system for enabling collaborative authoring of hierarchical documents with associated business logic](https://www.google.com/patents/US20040230903) (Pending)
- 
+
 
 ## PRESENTATIONS
 
+1. Virtuous Cycles: Empowered Learners, Replicating Successful Learning Models, Creative Failure, [BC Libraries Conference](https://bclaconnect.ca/2015-conference/?page_id=336), 2015
 1. What to Expect After Graduation, SFU First-Year CS Students, 2013
 1. [Lightbeam AMA](https://www.reddit.com/r/IAmA/comments/1pbjtw/we_are_the_mozilla_team_who_have_been_working_on), Reddit, 2013
 1. [Lightbeam Launch Keynote](https://www.youtube.com/watch?v=nm-1KHSzAY8), MozFest, 2013
@@ -207,7 +219,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ## PUBLICATIONS
 
-1. Blockcode (chapter): Architecture of Open Source, Vol. 3 (O'Reilly, forthcoming)
+1. Blockcode (chapter): Architecture of Open Source, Vol. 3 ([AOSA Books](http://aosabook.org), forthcoming)
 1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
 1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
 1. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
@@ -267,4 +279,3 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 ## REFERENCES
 
 *Available upon request*
-
