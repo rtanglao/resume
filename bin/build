@@ -3,3 +3,7 @@
 redcarpet README.md > out.html
 cat template/head.html out.html template/foot.html > index.html
 rm out.html
+
+redcarpet teaching/README.md > out.html
+cat template/head.html out.html template/foot.html > teaching/index.html
+rm out.html
