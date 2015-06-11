@@ -253,7 +253,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 1. Python DocUtils Project: refactored directives code, added new directives, wrote How-To for creating new directives, 2002
 1. Interactive Hotlist: An early attempt at shared collaborative bookmarking, 1997-1999
 1. FreeWord: An experimental web-editable outliner, 1997
-1. Live from Studio B: The Art of Conversation, participated as monthly guest explaining technical issues to ordinary people, 1997
+1. Live from Studio B: The Art of Conversation, participated as monthly guest explaining technical issues in plain language, 1997
 
 ## OTHER ACHIEVEMENTS
 
