@@ -11,9 +11,20 @@
 
 I have been programming for the web as long as there has been a web, using AJAX-style dynamic loading since 1998, and pushing boundaries of the browsers and my own creativity at every opportunity. I've worked for large corporations and two-person startups. After resisting becoming a manager for years, I surprised myself by being good at it and enjoying it. Programming is like an infinite box of Legos you can build anything with, and I thrive on introducing others to this world and mentoring other developers. I also enjoy building communities and making connections with different groups who can support each other to build great things.
 
-I am currently seeking a new challenge, if you have an interesting set of problems, let's talk.
-
 ## Experience
+
+### Eventsage
+
+* Vancouver, BC
+* July 2015 - Present
+* Senior Web Developer
+
+Team lead, mentor, architect for back-end, front-end, ops and infrastructure. Wearer of hats.
+
+1. Put together plan for evolving, growing, and maintaining site.
+2. Evaluate existing site and tools, make plans for managed change.
+3. Mentoring, code reviews, lunch-and-learns.
+4. Write code, tests, and documentation.
 
 ### Awesense Wireless
 
