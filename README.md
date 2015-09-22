@@ -21,11 +21,12 @@ I am not currently looking for work.
 * July 2015 - Present
 * Lead Software Developer
 
-Team lead and full stack developer.
+Team lead, mentor, architect for back-end, front-end, ops and infrastructure. Wearer of hats.
 
 1. Rebuild site for speedy loading and scalability
 2. Implement monetization strategy
-3. Business advising
+3. Mentoring, code reviews, lunch-and-learns.
+4. Business advising
 
 ### Awesense Wireless
 
