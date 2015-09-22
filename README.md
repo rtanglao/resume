@@ -11,9 +11,21 @@
 
 I have been programming for the web as long as there has been a web, using AJAX-style dynamic loading since 1998, and pushing boundaries of the browsers and my own creativity at every opportunity. I've worked for large corporations and two-person startups. After resisting becoming a manager for years, I surprised myself by being good at it and enjoying it. Programming is like an infinite box of Legos you can build anything with, and I thrive on introducing others to this world and mentoring other developers. I also enjoy building communities and making connections with different groups who can support each other to build great things.
 
-I am currently seeking a new challenge, if you have an interesting set of problems, let's talk.
+I am not currently looking for work.
 
 ## Experience
+
+### Eventsage
+
+* Vancouver, BC
+* July 2015 - Present
+* Lead Software Developer
+
+Team lead and full stack developer.
+
+1. Rebuild site for speedy loading and scalability
+2. Implement monetization strategy
+3. Business advising
 
 ### Awesense Wireless
 
