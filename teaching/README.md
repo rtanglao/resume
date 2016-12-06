@@ -15,6 +15,8 @@ I have mentored for Ladies Learning Code and Mozilla's Software Carpentry. I co-
 
 For three terms I have mentored 3-10 students per term with Undergraduate Capstone Open Source Projects, with the students working on Waterbear, an open source project I lead to make it easier to learn programming. This is an intensive program with weekly reports and meetings, where the students are expected to put in at least 10 hours a week filing and fixing bugs, implementing new features, and working on a larger term project.
 
+I am the co-host and organizer for the Maker Education Salon, a partnership between Vancouver Maker Faire and Mozilla Hive, which brings educators, librarians, parents, community organizers, makers, and kids together on a quarterly basis, with an annual "Pop-Up" event. This helps all the local folks involved in making and education to learn about each other and build connections.
+
 I am currently seeking a new challenge and would love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small. My full technical experience can be found [here](https:https://dethe.github.io/resume/).
 
 ## Education
@@ -34,6 +36,7 @@ I am currently seeking a new challenge and would love to pass on the lessons I'v
 
 ## PRESENTATIONS
 
+1. Please Hold On, We Are Experiencing Technical Difficulties, Technology Training to Enhance Women's Safety, [BC Society of Transition Houses](http://bcsth.ca/), 2016
 1. Virtuous Cycles: Empowered Learners, Replicating Successful Learning Models, Creative Failure, [BC Libraries Conference](https://bclaconnect.ca/2015-conference/?page_id=336), 2015
 1. What to Expect After Graduation, SFU First-Year CS Students, 2013
 1. [Lightbeam AMA](https://www.reddit.com/r/IAmA/comments/1pbjtw/we_are_the_mozilla_team_who_have_been_working_on), Reddit, 2013
