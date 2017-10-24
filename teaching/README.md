@@ -68,7 +68,7 @@ I am currently seeking a new challenge and would love to pass on the lessons I'v
 
 ## PUBLICATIONS
 
-1. Blockcode (chapter): Architecture of Open Source, Vol. 3 ([AOSA Books](http://aosabook.org), forthcoming)
+1. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016-07)
 1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
 1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
 1. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
