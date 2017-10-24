@@ -13,6 +13,29 @@ I have been programming for the web as long as there has been a web, using AJAX-
 
 ## Experience
 
+### British Columbia Institute of Technology
+
+* Burnaby, BC
+* September 2017 - Present
+* Instructor
+
+Teach Management Information Systems to both full-time and part-time classes.
+
+1. Built lab exercises based on real-world databases, networks, security issues
+
+### Participedia
+
+* Vancouver, BC
+* January 2017 - Present
+* Lead Developer
+
+Team lead and back-end specialist for building 3rd version of this academic collaborative website tracking democratic participation around the world.
+
+1. Move databased from document-store to Postgres relational DB
+2. Re-implemented full-text search
+3. Mentoring for junior developers
+4. Technical advising for other aspects of project (online surveys, data respository, etc.)
+
 ### Eventsage
 
 * Vancouver, BC
@@ -184,7 +207,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 * June 1996 - July 1996
 * Instructor
 
-1. Teach introductory HTML course
+1. Create and teach introductory HTML course
 
 
 ## PATENTS
@@ -199,6 +222,8 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ## PRESENTATIONS
 
+1. Full Featured Websites without Writing Javascript, [Code and Coffee Pop-Up, Richmond Public Library](https://youtu.be/8PQcOt5QOnw), 2017
+1. Please Hold On, We Are Experiencing Technical Difficulties, Technology Training to Enhance Women's Safety, [BC Society of Transition Houses](http://bcsth.ca/), 2016
 1. Virtuous Cycles: Empowered Learners, Replicating Successful Learning Models, Creative Failure, [BC Libraries Conference](https://bclaconnect.ca/2015-conference/?page_id=336), 2015
 1. What to Expect After Graduation, SFU First-Year CS Students, 2013
 1. [Lightbeam AMA](https://www.reddit.com/r/IAmA/comments/1pbjtw/we_are_the_mozilla_team_who_have_been_working_on), Reddit, 2013
@@ -230,7 +255,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ## PUBLICATIONS
 
-1. Blockcode (chapter): Architecture of Open Source, Vol. 3 ([AOSA Books](http://aosabook.org), forthcoming)
+1. Blockcode (chapter): Architecture of Open Source, Vol. 3 ([AOSA Books](http://aosabook.org), 2016)
 1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
 1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
 1. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)

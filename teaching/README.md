@@ -19,6 +19,48 @@ I am the co-host and organizer for the Maker Education Salon, a partnership betw
 
 I am currently seeking a new challenge and would love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small. My full technical experience can be found [here](https:https://dethe.github.io/resume/).
 
+## Experience
+
+### British Columbia Institute of Technology
+
+* Burnaby, BC
+* September 2017 - Present
+* Instructor
+
+Teaching Management Information Systems to both full-time and part-time classes.
+
+1. Built lab exercises based on real-world databases, networks, security issues
+
+### Emily Carr University of Art + Design
+
+* Vancouver, BC
+* September 2013 - December 2013
+* Co-instructor (external)
+
+Co-created and co-taught web technologies and programming to design students, taking them through to creating interactive presentations that pulled live data from the web.
+
+1. Designed all technical presentations (my co-instructor, Amber Frid-Jimenez, built all design-oriented presentations and content).
+1. Created homework projects
+1. Built libraries to make some of the programming exercises more achievable given the constraints a single term
+
+### University of British Columbia Continuing Studies
+
+* Vancouver, BC
+* July 2000 - September 2002
+* Instructor
+
+1. Teach XML Concepts introductory class
+2. Teach Programming XML class
+
+### Continuing Education Studies, Ohio University
+
+* Athens, Ohio
+* June 1996 - July 1996
+* Instructor
+
+1. Create and teach introductory HTML course
+
+
 ## Education
 
 ### Ohio University
@@ -68,7 +110,7 @@ I am currently seeking a new challenge and would love to pass on the lessons I'v
 
 ## PUBLICATIONS
 
-1. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016-07)
+1. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
 1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
 1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
 1. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
