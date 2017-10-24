@@ -31,6 +31,17 @@ Teaching Management Information Systems to both full-time and part-time classes.
 
 1. Built lab exercises based on real-world databases, networks, security issues
 
+### Modern Jive Vancouver
+
+* Vancouver, BC
+* February 2017 - Present
+* Instructor
+
+Teach introductory and intermediate partner dancing to groups of 20-50.
+
+1. Class management with many new drop-in students each week
+1. Lesson planning
+
 ### Emily Carr University of Art + Design
 
 * Vancouver, BC
