@@ -1,11 +1,11 @@
 # Dethe Elza
 
-* dethe@livingcode.org
-* Vancouver, BC, Canada
-* [GitHub](https://github.com/dethe/)
-* [Blog](http://livingcode.org/)
-* [Twitter](https://twitter.com/dethe)
-* [Waterbear](http://waterbearlang.com/)
+-   dethe@livingcode.org
+-   Vancouver, BC, Canada
+-   [GitHub](https://github.com/dethe/)
+-   [Blog](http://livingcode.org/)
+-   [Twitter](https://twitter.com/dethe)
+-   [Waterbear](http://waterbearlang.com/)
 
 ## Summary
 
@@ -13,11 +13,30 @@ I have been programming for the web as long as there has been a web, using AJAX-
 
 ## Experience
 
+### Richmond Public Library
+
+-   Richmond, BC
+-   March 2018 - Present
+-   Digital Services Technician
+
+Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, Lego WeDo and Lego Mindstorms, and more.
+
+1. Introduce and lead Code Clubs weekly for kids, teens, and adults
+2. Teach Intro to HTML and CSS
+3. Run Minecraft Club for 6+ year olds, set up and maintain server
+4. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
+5. Organize Processing Community Day
+6. Write web apps and AR to support teen summer programs
+7. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
+8. Teach Game Programming with Pico-8
+9. Co-teach Computer Basics for Seniors
+10. Help organize community partner events like RoboSports and Under The GUI
+
 ### British Columbia Institute of Technology
 
-* Burnaby, BC
-* September 2017 - Present
-* Instructor
+-   Burnaby, BC
+-   September 2017 - Present
+-   Instructor
 
 Teach Management Information Systems to both full-time and part-time classes.
 
@@ -25,9 +44,9 @@ Teach Management Information Systems to both full-time and part-time classes.
 
 ### Participedia
 
-* Vancouver, BC
-* January 2017 - Present
-* Lead Developer
+-   Vancouver, BC
+-   January 2017 - Present
+-   Lead Developer
 
 Team lead and back-end specialist for building 3rd version of this academic collaborative website tracking democratic participation around the world.
 
@@ -38,9 +57,9 @@ Team lead and back-end specialist for building 3rd version of this academic coll
 
 ### Eventsage
 
-* Vancouver, BC
-* July 2015 - December 2016
-* Lead Software Developer
+-   Vancouver, BC
+-   July 2015 - December 2016
+-   Lead Software Developer
 
 Team lead, mentor, architect for back-end, front-end, ops and infrastructure. Wearer of hats.
 
@@ -51,9 +70,9 @@ Team lead, mentor, architect for back-end, front-end, ops and infrastructure. We
 
 ### Awesense Wireless
 
-* Vancouver, BC
-* October 2014 - June 2015
-* Senior Software Engineer
+-   Vancouver, BC
+-   October 2014 - June 2015
+-   Senior Software Engineer
 
 Back-end developer and team leader.
 
@@ -61,12 +80,11 @@ Back-end developer and team leader.
 2. Recruiting, outreach, and training
 3. Client data integration work
 
-
 ### Mozilla Corporation
 
-* Vancouver, BC
-* February 2014 - September 2014
-* Senior Web Developer
+-   Vancouver, BC
+-   February 2014 - September 2014
+-   Senior Web Developer
 
 Front-end development for the [Marketplace](https://marketplace.firefox.com/) team
 
@@ -76,9 +94,9 @@ Front-end development for the [Marketplace](https://marketplace.firefox.com/) te
 
 ### Mozilla Foundation
 
-* Vancouver, BC
-* August 2012 - December 2013
-* Developer
+-   Vancouver, BC
+-   August 2012 - December 2013
+-   Developer
 
 Take Collusion prototype through design, development and launch as [Lightbeam 1.0](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
 
@@ -91,9 +109,9 @@ Take Collusion prototype through design, development and launch as [Lightbeam 1.
 
 ### Reelhouse
 
-* Vancouver, BC
-* August 2011 - July 2012
-* Director of Development
+-   Vancouver, BC
+-   August 2011 - July 2012
+-   Director of Development
 
 Architect, build, and manage development of a site to showcase the work of independent video artists at [Reelhouse.org](https://www.reelhouse.org/).
 
@@ -103,9 +121,9 @@ Architect, build, and manage development of a site to showcase the work of indep
 
 ### Kinzin International, Inc.
 
-* Vancouver, BC
-* September 2006 - August 2011
-* Director of Development
+-   Vancouver, BC
+-   September 2006 - August 2011
+-   Director of Development
 
 Manage small development team to build photo sharing site Kinzin.com
 
@@ -115,25 +133,25 @@ Manage small development team to build photo sharing site Kinzin.com
 
 ### JustSystems Canada
 
-* Vancouver, BC
-* April 2006 - September 2006
-* Senior Technical Architect
+-   Vancouver, BC
+-   April 2006 - September 2006
+-   Senior Technical Architect
 
-Integrated  XML-based collaboration technology (Distributed DOM) into existing xfy XML toolset.
+Integrated XML-based collaboration technology (Distributed DOM) into existing xfy XML toolset.
 
 ### BlastRadius
 
-* Vancouver, BC
-* April 2002 - March 2006
-* Senior Technical Architect
+-   Vancouver, BC
+-   April 2002 - March 2006
+-   Senior Technical Architect
 
 ### Enfolding Systems
 
-* Vancouver, BC
-* March 2001 - March 2002
-* Chief Mad Scientist
+-   Vancouver, BC
+-   March 2001 - March 2002
+-   Chief Mad Scientist
 
-1. Founding member of company sold for $2.35 million
+1. Founding member of company sold for \$2.35 million
 2. Design and implement client-side GUI development library (Vorta)
 3. Design and implement client-server shared Document Object Model (DDOM)
 4. Design of XML content management appliance
@@ -144,18 +162,18 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### University of British Columbia Continuing Studies
 
-* Vancouver, BC
-* July 2000 - September 2002
-* Instructor
+-   Vancouver, BC
+-   July 2000 - September 2002
+-   Instructor
 
 1. Teach XML Concepts introductory class
 2. Teach Programming XML class
 
 ### Antarcti.ca
 
-* Vancouver, BC
-* June 2000 - March 2001
-* Client Lead
+-   Vancouver, BC
+-   June 2000 - March 2001
+-   Client Lead
 
 1. Develop through-the-web 3D rendering technology
 2. Lead client-side programming team.
@@ -163,9 +181,9 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### Communicate.com
 
-* Vancouver, BC
-* June 1999 - June 2000
-* Senior Software Developer
+-   Vancouver, BC
+-   June 1999 - June 2000
+-   Senior Software Developer
 
 1. Design and implement server-side Java web applications
 2. Develop e-commerce framework
@@ -173,9 +191,9 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### Lucent Technologies
 
-* Columbus, Ohio
-* April 1998 - May 1999
-* Member of Technical Staff
+-   Columbus, Ohio
+-   April 1998 - May 1999
+-   Member of Technical Staff
 
 1. Develop software for managing telephone switches (NetMinder)
 2. Document and test Netminder software
@@ -183,9 +201,9 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### Communication Network Services, Ohio University
 
-* Athens, Ohio
-* August 1996 - March 1998
-* Network Software Specialist
+-   Athens, Ohio
+-   August 1996 - March 1998
+-   Network Software Specialist
 
 1. Provide university-wide network support for Macintosh platform
 2. Develop software for dial-up, residential, administrative and faculty networks
@@ -193,9 +211,9 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### Communication Network Services, Ohio University
 
-* Athens, Ohio
-* September 1995 - August 1996
-* Graduate Assistant
+-   Athens, Ohio
+-   September 1995 - August 1996
+-   Graduate Assistant
 
 1. Create Macintosh installation software
 2. Provide telephone support
@@ -203,22 +221,20 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### Continuing Education Studies, Ohio University
 
-* Athens, Ohio
-* June 1996 - July 1996
-* Instructor
+-   Athens, Ohio
+-   June 1996 - July 1996
+-   Instructor
 
 1. Create and teach introductory HTML course
-
 
 ## PATENTS
 
 1. [Methods and systems for enabling collaborative authoring of hierarchical documents](https://www.google.com/patents/US7424671)
 2. [Method and system for enabling collaborative authoring of hierarchical documents with unique node identifications](https://www.google.com/patents/US20040230896) (Pending)
-3.  [Method and system for enabling collaborative authoring of hierarchical documents with locking](https://www.google.com/patents/US7849401)
+3. [Method and system for enabling collaborative authoring of hierarchical documents with locking](https://www.google.com/patents/US7849401)
 4. [Method and system for enabling collaborative authoring of hierarchical documents with versioning](https://www.google.com/patents/US20040230894) (Pending)
 5. [Method and system for enabling collaborative authoring of hierarchical documents with node privileges](https://www.google.com/patents/US20040230893) (Pending)
 6. [Method and system for enabling collaborative authoring of hierarchical documents with associated business logic](https://www.google.com/patents/US20040230903) (Pending)
-
 
 ## PRESENTATIONS
 
@@ -293,7 +309,7 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ## OTHER ACHIEVEMENTS
 
-1. Raised over $1000 for Children's Hospital "Balding for Dollars" 2009
+1. Raised over \$1000 for Children's Hospital "Balding for Dollars" 2009
 1. Conceived of and implemented Distributed DOM (DDOM), 2 patents granted, one still pending on this technology, 2001-2004
 1. J. Langdon Taylor Scholarship, 1994
 1. Computer Science Club Scholarship, 1994
@@ -302,16 +318,16 @@ Integrated  XML-based collaboration technology (Distributed DOM) into existing x
 
 ### Ohio University
 
-* Athens, OH
-* M.S., Electrical and Computer Engineering
-* March 1998
+-   Athens, OH
+-   M.S., Electrical and Computer Engineering
+-   March 1998
 
 ### Ohio University
 
-* Athens, OH
-* B.S., Computer Science (Minor in Linguistics)
-* November 1995
+-   Athens, OH
+-   B.S., Computer Science (Minor in Linguistics)
+-   November 1995
 
 ## REFERENCES
 
-*Available upon request*
+_Available upon request_
