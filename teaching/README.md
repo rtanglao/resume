@@ -1,11 +1,13 @@
 # Dethe Elza
 
-* dethe@livingcode.org
-* Vancouver, BC, Canada
-* [GitHub](https://github.com/dethe/)
-* [Blog](http://livingcode.org/)
-* [Twitter](https://twitter.com/dethe)
-* [Waterbear](http://waterbearlang.com/)
+- dethe@livingcode.org
+- Vancouver, BC, Canada
+- [GitHub](https://github.com/dethe/)
+- [Blog](http://livingcode.org/)
+- [Twitter](https://twitter.com/dethe)
+- [Waterbear](http://waterbearlang.com/)
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4422-5928" href="https://orcid.org/0000-0002-4422-5928" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4422-5928</a></div>
 
 ## Summary
 
@@ -21,21 +23,53 @@ I am currently seeking a new challenge and would love to pass on the lessons I'v
 
 ## Experience
 
+### Richmond Public Library
+
+- Richmond, BC
+- March 2018 - Present
+- Digital Services Technician
+
+Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, Lego WeDo and Lego Mindstorms, and more.
+
+1. Introduce and lead Code Clubs weekly for kids, teens, and adults
+2. Teach Intro to HTML and CSS
+3. Run Minecraft Club for 6+ year olds, set up and maintain server
+4. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
+5. Organize Processing Community Day
+6. Write web apps and AR to support teen summer programs
+7. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
+8. Teach Game Programming with Pico-8
+9. Co-teach Computer Basics for Seniors
+10. Help organize community partner events like RoboSports and Under The GUI
+
 ### British Columbia Institute of Technology
 
-* Burnaby, BC
-* September 2017 - Present
-* Instructor
+- Burnaby, BC
+- September 2017 - June 2018
+- Instructor
 
 Teaching Management Information Systems to both full-time and part-time classes.
 
 1. Built lab exercises based on real-world databases, networks, security issues
 
+### Participedia
+
+- Vancouver, BC
+- January 2017 - October 2019
+- Lead Developer
+
+Team lead and back-end specialist for building 3rd version of this academic collaborative website tracking democratic participation around the world.
+
+1. Move database from document-store to Postgres relational DB
+2. Re-implemented full-text search
+3. Mentoring for junior developers
+4. Technical advising for other aspects of project (online surveys, data respository, etc.)
+
 ### Modern Jive Vancouver
 
-* Vancouver, BC
-* February 2017 - Present
-* Instructor
+- Vancouver, BC
+- February 2017 - Present
+- Instructor
 
 Teach introductory and intermediate partner dancing to groups of 20-50.
 
@@ -44,9 +78,9 @@ Teach introductory and intermediate partner dancing to groups of 20-50.
 
 ### Emily Carr University of Art + Design
 
-* Vancouver, BC
-* September 2013 - December 2013
-* Co-instructor (external)
+- Vancouver, BC
+- September 2013 - December 2013
+- Co-instructor (external)
 
 Co-created and co-taught web technologies and programming to design students, taking them through to creating interactive presentations that pulled live data from the web.
 
@@ -56,39 +90,40 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ### University of British Columbia Continuing Studies
 
-* Vancouver, BC
-* July 2000 - September 2002
-* Instructor
+- Vancouver, BC
+- July 2000 - September 2002
+- Instructor
 
 1. Teach XML Concepts introductory class
 2. Teach Programming XML class
 
 ### Continuing Education Studies, Ohio University
 
-* Athens, Ohio
-* June 1996 - July 1996
-* Instructor
+- Athens, Ohio
+- June 1996 - July 1996
+- Instructor
 
 1. Create and teach introductory HTML course
-
 
 ## Education
 
 ### Ohio University
 
-* Athens, OH
-* M.S., Electrical and Computer Engineering
-* March 1998
+- Athens, OH
+- M.S., Electrical and Computer Engineering
+- March 1998
 
 ### Ohio University
 
-* Athens, OH
-* B.S., Computer Science (Minor in Linguistics)
-* November 1995
-
+- Athens, OH
+- B.S., Computer Science (Minor in Linguistics)
+- November 1995
 
 ## PRESENTATIONS
 
+1. [Code Club for Seniors](https://drive.google.com/file/d/1B_BZrrvodFzX59YKsMWI1nnSG9TccGEH/view), Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2019
+1. [Uses of the Raspberry Pi](https://hackmd.io/@dethe/BJDPzjI3m#/), Code Club, [Richmond Public Library](https://rpl.yourlibrary.ca/), 2018
+1. [Mavo: Full Featured Websites Without Writing JavaScript](https://www.youtube.com/watch?v=8PQcOt5QOnw), Code and Coffee, [Richmond Public Library](https://rpl.yourlibrary.ca), 2017
 1. Please Hold On, We Are Experiencing Technical Difficulties, Technology Training to Enhance Women's Safety, [BC Society of Transition Houses](http://bcsth.ca/), 2016
 1. Virtuous Cycles: Empowered Learners, Replicating Successful Learning Models, Creative Failure, [BC Libraries Conference](https://bclaconnect.ca/2015-conference/?page_id=336), 2015
 1. What to Expect After Graduation, SFU First-Year CS Students, 2013
@@ -121,6 +156,11 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ## PUBLICATIONS
 
+1. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
+1. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
+1. Book Review: [Every Heart a Doorway by Seanan McGuire[(https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
+1. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
+1. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
 1. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
 1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
 1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
@@ -129,10 +169,19 @@ Co-created and co-taught web technologies and programming to design students, ta
 1. XML Matters: [SVG and the Scriptless Script](http://www.ibm.com/developerworks/library/x-matters42/) (IBM developerWorks, 2006-06)
 1. XML Matters: [Beyond the DOM](https://web.archive.org/web/20060705000433/http://www-128.ibm.com/developerworks/xml/library/x-matters41.html) (IBM developerWorks, 2006-06)
 1. Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
-1. Browser Evolution: Document Access on the World Wide Web (Master's Thesis 1998-03)
+1. [Browser Evolution: Document Access on the World Wide Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4604) (Master's Thesis 1998-03)
 
 ## PROJECTS
 
+1. [Bloc](https://github.com/dethe/bloc) Improved (esp. for mobile) version of minimal block language used in 500 Lines book: 2020
+1. [Sketchdance: Shimmy](https://glitch.com/~sd-shimmy) Simple animation tool for children: 2020
+1. [Sketchdance: Moat](https://glitch.com/~sd-moat) Secure file sharing for library programs: 2019
+1. [Sketchdance: Garden](https://glitch.com/~sd-garden) Collaborative (in both creation and play) text adventure creation tool: 2019
+1. [Magic 8 Ball](https://codepen.io/dethe/pen/abbePQO) JavaScript demo project: 2019
+1. [Book City: Superheroes](https://glitch.com/edit/#!/book-city-superheroes): Alternative Reality Game for Richmond Public Library Teen Summer Reading Club: 2019
+1. [Moon Animated](https://glitch.com/~moon-animated) Art project in collaboration with Azlen Elza: 2018
+1. [P5 Video Puzzle](https://glitch.com/~p5-video-puzzle) Sliding Block Puzzle using Webcam: 2018
+1. [Slitscan Horizontal](https://glitch.com/~slitscan-horizontal) Video Effect: 2018
 1. [Imagetoy](https://dethe.github.io/imagetoy/): 2014
 1. [Life](https://dethe.github.io/life/): Conway's Game of Life in the canvas: 2014
 1. [Drawing Board Revisited](https://dethe.github.io/drawingboard/): Rewriting the Drawing Board app for the web: 2014
@@ -159,4 +208,4 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ## REFERENCES
 
-*Available upon request*
+_Available upon request_
