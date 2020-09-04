@@ -9,6 +9,10 @@
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4422-5928" href="https://orcid.org/0000-0002-4422-5928" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4422-5928</a></div>
 
+## Goal
+
+To work at the intersection of learning and tech, helping people to use, rather than be used by, computers and technology.
+
 ## Summary
 
 I introduced and taught a class in Web Design in 1996 through Ohio University's Continuing Education program. In 1997 I was a monthly guest on WOUB, the univerity radio station, on the Art of Conversation show, where I would explain technical issues in plain language. From 2000 to 2002 I taught Intro to XML and XML Programming in the University of British Columbia's certificate program.
@@ -156,20 +160,21 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ## PUBLICATIONS
 
-1. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
-1. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
-1. Book Review: [Every Heart a Doorway by Seanan McGuire[(https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
-1. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
-1. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
-1. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
-1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
-1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
-1. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
-1. XML Matters: [The web, it ain't just for 2D anymore](https://web.archive.org/web/20051218034517/http://www-128.ibm.com/developerworks/web/library/x-matters43/index.html) (IBM developerWorks, 2005-06)
-1. XML Matters: [SVG and the Scriptless Script](http://www.ibm.com/developerworks/library/x-matters42/) (IBM developerWorks, 2006-06)
-1. XML Matters: [Beyond the DOM](https://web.archive.org/web/20060705000433/http://www-128.ibm.com/developerworks/xml/library/x-matters41.html) (IBM developerWorks, 2006-06)
-1. Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
-1. [Browser Evolution: Document Access on the World Wide Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4604) (Master's Thesis 1998-03)
+1. Paper (co-author): [Designing Participedia: A Collaborative Research Platform](https://dl.acm.org/doi/10.1145/3384772.3385125) (PDC '20: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise - Volume 2, 2020-06)
+2. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
+3. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
+4. Book Review: [Every Heart a Doorway by Seanan McGuire[(https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
+5. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
+6. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
+7. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
+8. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
+9. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
+10. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
+11. XML Matters: [The web, it ain't just for 2D anymore](https://web.archive.org/web/20051218034517/http://www-128.ibm.com/developerworks/web/library/x-matters43/index.html) (IBM developerWorks, 2005-06)
+12. XML Matters: [SVG and the Scriptless Script](http://www.ibm.com/developerworks/library/x-matters42/) (IBM developerWorks, 2006-06)
+13. XML Matters: [Beyond the DOM](https://web.archive.org/web/20060705000433/http://www-128.ibm.com/developerworks/xml/library/x-matters41.html) (IBM developerWorks, 2006-06)
+14. Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
+15. [Browser Evolution: Document Access on the World Wide Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4604) (Master's Thesis 1998-03)
 
 ## PROJECTS
 
