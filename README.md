@@ -1,11 +1,9 @@
-# Dethe Elza
-
-- dethe@livingcode.org
+# Roland Tanglao
+- rolandt@gmail.com
 - Vancouver, BC, Canada
-- [GitHub](https://github.com/dethe/)
-- [Blog](http://livingcode.org/)
-- [Twitter](https://twitter.com/dethe)
-- [Waterbear](http://waterbearlang.com/)
+- [GitHub](https://github.com/rtanglao/)
+- [Blog](http://rolandtanglao.com/)
+- [Twitter](https://twitter.com/rtanglao)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4422-5928" href="https://orcid.org/0000-0002-4422-5928" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4422-5928</a></div>
 
