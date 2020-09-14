@@ -22,7 +22,7 @@ As support analyst, I improved Mozilla and Firefox products (Firefox for Android
 1. For every release, I gathered user insights for Firefox Desktop and Firefox for Android and reported them back to engineering and product management.
 2. Onboarded new products such as Mozilla VPN into support: ensured documentation was ready, for free products coordinated with community managers to ensure the volunteer support community was ready, for paid products such as Mozilla VPN worked with support agents to ensure paid support was ready.
 3. I wrote [scripts](https://github.com/rtanglao/rt-kits-api2) in Ruby and R using R Studio to collect support related data using REST APIs and visualized that data using R's ggplot2 library.
-4. I co-project managed a Tableau visualizer engineer and a back end data engineer and was also the customer for four  dashboards (Firefox Desktop, Firefox for Android, Support Community Performance, Mozilla VPN dashboard) in Tableau from requirements to deployment. The data was stored in Mozilla's Google Cloud platform. 
+4. I co-project managed a Tableau visualizer engineer and a back end data engineer and was also the end user for four  dashboards (Firefox Desktop, Firefox for Android, Support Community Performance, Mozilla VPN dashboard) in Tableau from requirements to deployment. The data was stored in Mozilla's Google Cloud Platform (GCP) with the data in Google Big Query. 
 
 ### Mozilla Corporation
 
