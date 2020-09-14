@@ -58,7 +58,7 @@ Coordinated community support and provided end user support for Mozilla Thunderb
 ### University of Waterloo
 
 - Waterloo, ON
-- BaSc, Systems Design Engineering (Computer Engineering Option)
+- BASc, Systems Design Engineering (Computer Engineering Option)
 
 ## REFERENCES
 
