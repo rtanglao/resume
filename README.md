@@ -7,7 +7,7 @@
 
 ## Summary
 
-Email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. I love software and people and have many years of experience supporting software products and developing them. Some examples of products that I would love to work with  include: slack, wordpress, github, squarespace, Lightroom, R Studio and many more!
+Email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. I love software and people and have many years of experience supporting software products and developing them. Some examples of products that I would love to work with  include: slack, Wordpress, github, gitlab, Thunderbird, squarespace, Lightroom, R Studio and many more!
 
 ## Experience
 
