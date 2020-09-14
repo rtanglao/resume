@@ -5,11 +5,9 @@
 - [Blog](http://rolandtanglao.com/)
 - [Twitter](https://twitter.com/rtanglao)
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4422-5928" href="https://orcid.org/0000-0002-4422-5928" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4422-5928</a></div>
-
 ## Summary
 
-I have been programming for the web as long as there has been a web, using AJAX-style dynamic loading since 1998, and pushing boundaries of the browsers and my own creativity at every opportunity. I've worked for large corporations and two-person startups. After resisting becoming a manager for years, I surprised myself by being good at it and enjoying it. Programming is like an infinite box of Legos you can build anything with, and I thrive on introducing others to this world and mentoring other developers. I also enjoy building communities and making connections with different groups who can support each other to build great things.
+Email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. I love software and people. Some examples of products that I would love to work with  include: slack, wordpress, github, squarespace, Lightroom, R Studio and many more!
 
 ## Experience
 
