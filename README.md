@@ -7,7 +7,7 @@
 
 ## Summary
 
-Email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. I love software and people. Some examples of products that I would love to work with  include: slack, wordpress, github, squarespace, Lightroom, R Studio and many more!
+Email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. I love software and people and have many years of experience supporting software products and developing them. Some examples of products that I would love to work with  include: slack, wordpress, github, squarespace, Lightroom, R Studio and many more!
 
 ## Experience
 
@@ -224,15 +224,6 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 - Instructor
 
 1. Create and teach introductory HTML course
-
-## PATENTS
-
-1. [Methods and systems for enabling collaborative authoring of hierarchical documents](https://www.google.com/patents/US7424671)
-2. [Method and system for enabling collaborative authoring of hierarchical documents with unique node identifications](https://www.google.com/patents/US20040230896) (Pending)
-3. [Method and system for enabling collaborative authoring of hierarchical documents with locking](https://www.google.com/patents/US7849401)
-4. [Method and system for enabling collaborative authoring of hierarchical documents with versioning](https://www.google.com/patents/US20040230894) (Pending)
-5. [Method and system for enabling collaborative authoring of hierarchical documents with node privileges](https://www.google.com/patents/US20040230893) (Pending)
-6. [Method and system for enabling collaborative authoring of hierarchical documents with associated business logic](https://www.google.com/patents/US20040230903) (Pending)
 
 ## PRESENTATIONS
 
