@@ -13,11 +13,11 @@
 
 ## Experience
 
-### Mozilla Corporation
+### Firefox Support Analyst & Support Release Manager, Mozilla Corporation
 
 - Vancouver, BC (the rest of the support team was in the USA, Europe and Asia)
 - January 2016 - August 2020
-- Firefox Support Analyst & Support Release Manager 
+ 
 
 As support analyst, I improved Mozilla and Firefox products (Firefox for Android; Firefox for Desktop: Windows, Linux, macOS; Firefox Lite; Mozilla VPN; Firefox Reality and more) by collecting and feeding back user insights both manualy and using dashboards to engineering and product. As support release manager, I ensured that support was ready for both new and existing products by coordinating user documentation with our content editor, ensuring our support site was ready by working with support site software developers and designers and working with product management and engineering.
 
@@ -26,19 +26,18 @@ As support analyst, I improved Mozilla and Firefox products (Firefox for Android
 1. I wrote [scripts](https://github.com/rtanglao/rt-kits-api2) in Ruby and R using R Studio to collect support related data using REST APIs and visualized that data using R's ggplot2 library.
 1. I co-project managed a Tableau visualizer engineer and a back end data engineer and was also the end user for four  dashboards (Firefox Desktop, Firefox for Android, Support Community Performance, Mozilla VPN dashboard) in Tableau from requirements to deployment. The data was stored in Mozilla's Google Cloud Platform (GCP) with the data in Google Big Query (BQ). 
 
-### Mozilla Corporation
+### Firefox for Android & iOS Support Coordinator, Mozilla Corporation
 
 - Vancouver, BC
 - November 2012 - January 2016
-- Firefox for Android & iOS Support Coordinator
+
 
 Coordinated the awesome volunteers, user documentation and support forum for the fantastic Firefox for Android and iOS user support community on support.mozilla.org (SUMO)
 
-### Mozilla Messaging
+### Mozilla Thunderbird Technical Support Lead, Mozilla Messaging
 
 - Vancouver, BC
 - July 2009 - November 2012
-- Mozilla Thunderbird Technical Support Lead 
 
 Coordinated community support and provided end user support for Mozilla Thunderbird. I was the sole member of the support team and was involved in every aspect of support including  documentation, the support website and the community management. We used Get Satisfaction for our forum support and in 2012 I received [an award from Get Satisfaction](https://www.globenewswire.com/news-release/2012/02/14/1204183/0/en/Get-Satisfaction-Announces-Annual-Love-Your-Customers-Awards-for-Excellence-in-Social-Customer-Engagement.html) for innovative use of their REST API to collect support metrics using [Ruby scripts and MongoDB](https://github.com/rtanglao/momogs/).
 
