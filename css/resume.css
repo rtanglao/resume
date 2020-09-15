@@ -23,6 +23,12 @@ ol li{
 	list-style-position: outside;
 }
 
+ul li{
+	margin-left: 1em;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
 em{
 	font-variant: italic;
 }
