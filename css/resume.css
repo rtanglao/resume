@@ -19,7 +19,7 @@ ol, ul{
 
 ol li{
 	margin-left: 1em;
-	list-style-type: disc;
+	list-style-type: decimal;
 	list-style-position: outside;
 }
 
