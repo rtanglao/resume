@@ -31,14 +31,14 @@ As support analyst, I improved Mozilla and Firefox products (Firefox for Android
 - November 2012 - January 2016
 
 
-Coordinated the awesome volunteers, user documentation and support forum for the fantastic Firefox for Android and iOS user support community on support.mozilla.org (SUMO)
+Gathered insights, coordinated the awesome volunteers, user documentation and the support forum for the fantastic Firefox for Android and iOS user support community on support.mozilla.org (SUMO).
 
 ### Mozilla Thunderbird Technical Support Lead, Mozilla Messaging
 
 - Vancouver, BC
 - July 2009 - November 2012
 
-Coordinated community support and provided end user support for Mozilla Thunderbird. I was the sole member of the support team and was involved in every aspect of support including  documentation, the support website and the community management. We used Get Satisfaction for our forum support and in 2012 I received [an award from Get Satisfaction](https://www.globenewswire.com/news-release/2012/02/14/1204183/0/en/Get-Satisfaction-Announces-Annual-Love-Your-Customers-Awards-for-Excellence-in-Social-Customer-Engagement.html) for innovative use of their REST API to collect support metrics using [Ruby scripts and MongoDB](https://github.com/rtanglao/momogs/).
+Coordinated community support and provided end user support for Mozilla Thunderbird. As the only support person, I was involved in every aspect of support including  documentation, the support website and community management. We used Get Satisfaction for our forum support and in 2012 I received [an award from Get Satisfaction](https://www.globenewswire.com/news-release/2012/02/14/1204183/0/en/Get-Satisfaction-Announces-Annual-Love-Your-Customers-Awards-for-Excellence-in-Social-Customer-Engagement.html) for innovative use of their REST API to collect support metrics and gather insights using [Ruby scripts and MongoDB](https://github.com/rtanglao/momogs/).
 
 
 
