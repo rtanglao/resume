@@ -7,7 +7,7 @@
 
 ## Summary
 
-- Please email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. It would also be great I could help update the documentation so users benefit from every support ticket and insight!
+- Please email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. It would also be great if I could help update the documentation so users benefit from every support ticket and insight!
 - I love software and people and have many years of experience working at the intersection of software developers and those who use the software. I am a life long learner who enjoys becoming an expert in a software product from the API level up, supporting software products and developing them. 
 - Some examples of products that I would love to work with include (not in order): slack, Tableau, WordPress, github, gitlab, Thunderbird, Squarespace, Lightroom, R Studio and many more!
 
@@ -53,6 +53,47 @@ After the startup that I co-founded, Bryght, was acquired by Raincity Studios I 
 
 Co-founder of Bryght which had the world's first hosted Drupal website service. Responsible for technical support, billing and blogging. Bryght had one of Canada's first business blogs which I updated daily with Web 2.0 related topics.
 
+## Head Blogger, Streamline and Blogue.com
+
+- Vancouver, BC
+- 2002 – 2004
+
+Blog Evangelist. 
+
+##  Internal Developer Relations Manager, Nortel Networks
+
+- Vancouver BC
+- Dec 2000 – Sep 2001
+
+Managed a four person internal developer relations team responsible for supporting developers in the UK, Canada and China using 3 Network Management Software Development Kits (SDKs) in Java and C++. Developed support processes and published an internal weblog to share knowledge. 
+
+##  Software developer & Internal Developer Relations Team Leader, Nortel Networks
+
+- Vancouver BC
+- 1998 - 2000
+
+Worked on network management software and internal network management SDKs
+
+## Software Developer, Nortel DASA
+
+- Friendrichshafen, Germany
+- 1996 – 1998
+
+Developed Nortel switching software for  Germany's third cellular phone network.
+
+## Software Developer, Nortel Networks UK
+
+- New Southgate, London, England
+- 1992 – 1996
+
+Developed on network management software for European projects
+
+## Software Developer, Nortel Networks Ottawa
+
+- Ottawa, Canada
+- 1988 - 1992
+
+Developed software for Nortel switches in Nortel's proprietary language, Protel and in C and C++ for network management of switches and Access Networks.
 
 ## OTHER ACHIEVEMENTS, PROJECTS, INTERESTS
 
