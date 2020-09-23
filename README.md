@@ -62,7 +62,7 @@ Since 2010 I have been using, mongoDB, R, R Studio, ruby, the flickr API, the in
 
 * Co-founder, VanEats.com, 2000-2008
 
-Co-founded one of Canada's first food blogs, VanEats.com. Over 200 receipes and many restaurant reviews and photos of food.
+Co-founded one of Canada's first food blogs, VanEats.com. Over 200 recipes and many restaurant reviews and photos of food.
 
 * Volunteer Coach, Hollyburn Cross Country Ski Club, Dec 2010 – Present
 
