@@ -39,13 +39,30 @@ Gathered insights, coordinated the awesome volunteers, user documentation and th
 
 Coordinated community support and provided end user support for Mozilla Thunderbird. As the only support person, I was involved in every aspect of support including  documentation, the support website and community management. We used Get Satisfaction for our forum support and in 2012 I received [an award from Get Satisfaction](https://www.globenewswire.com/news-release/2012/02/14/1204183/0/en/Get-Satisfaction-Announces-Annual-Love-Your-Customers-Awards-for-Excellence-in-Social-Customer-Engagement.html) for innovative use of their REST API to collect support metrics and gather insights using [Ruby scripts and MongoDB](https://github.com/rtanglao/momogs/).
 
+## Support Services Coordinator, Raincity Studios
+
+- Vancouver, BC
+- 2007 - 2009
+
+After the startup that I co-founded, Bryght, was acquired by Raincity Studios I worked on supporting our clients and our Drupal hosted service including techical support and billing.
+
+## Co-founder and Chief Blogging Officer, Bryght
+
+- Vancouver, BC
+- 2004 - 2007
+
+Co-founder of Bryght which had the world's first hosted Drupal website service. Responsible for technical support, billing and blogging. Bryght had one of Canada's first business blogs which I updated daily with Web 2.0 related topics.
 
 
 ## OTHER ACHIEVEMENTS, PROJECTS, INTERESTS
 
 * Tshirt, tights and face covering maker, 2010 - Present
 
-Since 2010 I've been using, mongoDB, R, R Studio, ruby, the flickr API, the instagram API and my 200,000 flickr photos to make art out of information visualizations and to make T shirts, tights, face coverings from that art.
+Since 2010 I have been using, mongoDB, R, R Studio, ruby, the flickr API, the instagram API and my 200,000 flickr photos to make art out of information visualizations and to make T shirts, tights, face coverings from that art.
+
+* Co-founder, VanEats.com, 2000-2008
+
+Co-founded one of Canada's first food blogs, VanEats.com. Over 200 receipes and many restaurant reviews and photos of food.
 
 * Volunteer Coach, Hollyburn Cross Country Ski Club, Dec 2010 – Present
 
