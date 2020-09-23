@@ -93,13 +93,13 @@ Developed on network management software for European projects
 - Ottawa, Canada
 - 1988 - 1992
 
-Developed software for Nortel switches in Nortel's proprietary language, Protel and in C and C++ for network management of switches and Access Networks.
+Developed software for Nortel switches in Nortel's proprietary language, Protel and in C and C++ for network management of switches and access networks.
 
 ## OTHER ACHIEVEMENTS, PROJECTS, INTERESTS
 
 * Tshirt, tights and face covering maker, 2010 - Present
 
-Since 2010 I have been using, mongoDB, R, R Studio, ruby, the flickr API, the instagram API and my 200,000 flickr photos to make art out of information visualizations and to make T shirts, tights, face coverings from that art.
+Since 2010 I have been using, mongoDB, R, R Studio, ruby, the flickr API, the instagram API and my 200,000 flickr photos to make art out of information visualizations and to make T shirts, tights, face coverings for COVID protection from that art.
 
 * Co-founder, VanEats.com, 2000-2008
 
