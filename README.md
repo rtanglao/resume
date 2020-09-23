@@ -51,7 +51,7 @@ After the startup that I co-founded, Bryght, was acquired by Raincity Studios I 
 - Vancouver, BC
 - 2004 - 2007
 
-Co-founder of Bryght which had the world's first hosted Drupal website service. Responsible for technical support, billing and blogging. Bryght had one of Canada's first business blogs which I updated daily with Web 2.0 related topics.
+Co-founder of Bryght which created the world's first hosted Drupal website service. Responsible for technical support, billing and blogging. Bryght had one of Canada's first business blogs which I updated daily with Web 2.0 related topics.
 
 ## Head Blogger, Streamline and Blogue.com
 
