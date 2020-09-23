@@ -8,7 +8,7 @@
 ## Summary
 
 - Please email me at rolandt@gmail.com if you have a software support role that combines working with folks who use the software, getting insights from these folks and working with engineering and product to improve the software based on those insights. It would also be great I could help update the documentation so users benefit from every support ticket and insight!
-- I love software and people and have many years of experience supporting software products and developing them. 
+- I love software and people and have many years of experience. I am a life long learner who enjoys becoming an expert in a software product from the API level up, supporting software products and developing them. 
 - Some examples of products that I would love to work with include (not in order): slack, Tableau, WordPress, github, gitlab, Thunderbird, Squarespace, Lightroom, R Studio and many more!
 
 ## Experience
@@ -41,15 +41,11 @@ Coordinated community support and provided end user support for Mozilla Thunderb
 
 
 
-## PUBLICATIONS
+## OTHER ACHIEVEMENTS, PROJECTS, INTERESTS
 
+* Volunteer Coach Hollyburn Cross Country Ski Club, Dec 2010 – Present
 
-
-## PROJECTS
-
-
-## OTHER ACHIEVEMENTS
-
+As a level 1 Cross country ski instructor, I teach Level 1 and 2 kids (5, 6 and 7 year olds) how to cross country ski. It's a great way to jump start a life long active lifestyle for kids. I learn more from the kids than they do from me! And we all get some excellent exercise outdoors and have a lot of fun teaching and learning by playing.
 
 
 ## Education
