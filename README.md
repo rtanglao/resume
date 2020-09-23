@@ -43,9 +43,15 @@ Coordinated community support and provided end user support for Mozilla Thunderb
 
 ## OTHER ACHIEVEMENTS, PROJECTS, INTERESTS
 
-* Volunteer Coach Hollyburn Cross Country Ski Club, Dec 2010 – Present
+* Tshirt, tights and face covering maker, 2010 - Present
+
+Since 2010 I've been using, mongoDB, R, R Studio, ruby, the flickr API, the instagram API and my 200,000 flickr photos to make art out of information visualizations and to make T shirts, tights, face coverings from that art.
+
+* Volunteer Coach, Hollyburn Cross Country Ski Club, Dec 2010 – Present
 
 As a level 1 Cross country ski instructor, I teach Level 1 and 2 kids (5, 6 and 7 year olds) how to cross country ski. It's a great way to jump start a life long active lifestyle for kids. I learn more from the kids than they do from me! And we all get some excellent exercise outdoors and have a lot of fun teaching and learning by playing.
+
+* Hobbies: Lindy Hop Swing dancing, bicycling, cross country skiing
 
 
 ## Education
