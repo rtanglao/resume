@@ -107,9 +107,9 @@ VanEats.com was one of Canada's first food blogs. Over 200 recipes and many rest
 
 * Volunteer Coach, Hollyburn Cross Country Ski Club, Dec 2010 – Present
 
-As a level 1 Cross country ski instructor, I teach Level 1 and 2 kids (5, 6 and 7 year olds) how to cross country ski. It's a great way to jump start a life long active lifestyle for kids. I learn more from the kids than they do from me! And we all get some excellent exercise outdoors and have a lot of fun teaching and learning by playing.
+As a level 1 Cross country ski instructor, I teach Level 1 and 2 kids (5, 6 and 7 year olds) how to cross country ski. It is a great way to jump start a life long active lifestyle for kids. I learn more from the kids than they do from me! And we all get some excellent exercise outdoors and have a lot of fun teaching and learning by playing.
 
-* Hobbies: Lindy Hop Swing dancing, bicycling, cross country skiing
+* Hobbies: Lindy Hop Swing dancing, bicycling, cross country skiing, languages (Grade 13 French, Intermediate proficiency in German: "Zentrale Mittlestufenprüfung" (ZMP) and dabbled in many other languages)
 
 
 ## Education
