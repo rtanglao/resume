@@ -119,4 +119,3 @@ As a level 1 Cross country ski instructor, I teach Level 1 and 2 kids (5, 6 and 
 - Waterloo, ON
 - BASc, Systems Design Engineering (Computer Engineering Option)
 
-Ce
